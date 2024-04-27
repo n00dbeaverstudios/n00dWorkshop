@@ -1,0 +1,6 @@
+[submodule "Plugins/n00dEmotes"]
+	path = Plugins/n00dEmotes
+	url = https://github.com/n00dbeaverstudios/n00dEmotes
+[submodule "Plugins/n00dFootsteps"]
+	path = Plugins/n00dFootsteps
+	url = https://github.com/n00dbeaverstudios/n00dFootsteps
