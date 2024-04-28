@@ -4,3 +4,6 @@
 [submodule "Plugins/n00dFootsteps"]
 	path = Plugins/n00dFootsteps
 	url = https://github.com/n00dbeaverstudios/n00dFootsteps
+[submodule "Plugins/n00dSleeper"]
+	path = Plugins/n00dSleeper
+	url = https://github.com/n00dbeaverstudios/n00dSleeper
