@@ -23,6 +23,8 @@ git clone https://github.com/n00dbeaverstudios/n00dWorkshop.git
 cd n00dWorkshop
 git submodule update --init --recursive
 ```
+Time to jump right in!
+
 ### Clone some submodules
 If however, you don't own all the plugins or only have access to the public repos, don't sweat! We have you covered too!:
 ```
@@ -34,6 +36,7 @@ Then do the following for each plugin that you have access to under the same Git
 ```
 git submodule update --Plugins/n00dHolster --Plugins/n00dFootsteps
 ```
+You're good to go!
 
 > If you don't have access to the repositories but own the plugins, jump over to [Verification](https://verify.n00dbeaverstudios.com/) to get moving on that front. Once you have been verified, you'll gain access and will be able to download those as well!
 
