@@ -7,3 +7,6 @@
 [submodule "Plugins/n00dSleeper"]
 	path = Plugins/n00dSleeper
 	url = https://github.com/n00dbeaverstudios/n00dSleeper
+[submodule "Plugins/n00dHolster"]
+	path = Plugins/n00dHolster
+	url = https://github.com/n00dbeaverstudios/n00dHolster
