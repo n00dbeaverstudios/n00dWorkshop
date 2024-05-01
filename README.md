@@ -34,8 +34,10 @@ cd n00dWorkshop
 git submodule init
 ```
 Then do the following for each plugin that you have access to under the same Git Bash session:
+
+Say we owned n00dHolster and also want to clone two open source plugins n00dFootsteps and n00dEmotes
 ```
-git submodule update --Plugins/n00dHolster --Plugins/n00dFootsteps
+git submodule update -- Plugins/n00dHolster Plugins/n00dFootsteps Plugins/n00dEmotes
 ```
 You're good to go! See you in there!
 
