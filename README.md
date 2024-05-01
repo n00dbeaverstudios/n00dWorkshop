@@ -24,6 +24,8 @@ git clone https://github.com/n00dbeaverstudios/n00dWorkshop.git
 cd n00dWorkshop
 git submodule update --init --recursive
 ```
+The `--` here are prefixes used to distinguish these flags as options modifying how the git submodule update command operates.
+
 Time to jump right in!
 
 ### Clone some submodules
@@ -39,7 +41,10 @@ Then do the following for each plugin that you have access to under the same Git
 ```
 git submodule update -- Plugins/n00dHolster Plugins/n00dFootsteps Plugins/n00dEmotes
 ```
+The `--` option is generally used in commands to signify the end of command options, after which only positional parameters are accepted.
+
 You're good to go! See you in there!
+
 
 
 
