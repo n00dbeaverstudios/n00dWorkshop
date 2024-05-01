@@ -2,8 +2,7 @@
 
 ### Welcome to the n00dWorkshop!
 
-This project contains every plugin that's available from n00dbeaverStudios from the Unreal Engine Marketplace and integrates them into one overarching working project that you can pull apart and modify for your own needs!
-
+This project contains every plugin that's available from n00dbeaverStudios from the Unreal Engine Marketplace and integrates them into one overarching working project that you can pull apart and modify for your own needs, and pragmatically see how everything is integrated!
  
 # Installation
 
