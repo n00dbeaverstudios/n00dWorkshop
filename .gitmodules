@@ -10,3 +10,6 @@
 [submodule "Plugins/n00dHolster"]
 	path = Plugins/n00dHolster
 	url = https://github.com/n00dbeaverstudios/n00dHolster
+[submodule "Plugins/n00dDoors"]
+	path = Plugins/n00dDoors
+	url = https://github.com/n00dbeaverstudios/n00dDoors
