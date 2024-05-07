@@ -13,3 +13,6 @@
 [submodule "Plugins/n00dDoors"]
 	path = Plugins/n00dDoors
 	url = https://github.com/n00dbeaverstudios/n00dDoors
+[submodule "Plugins/n00dLobby"]
+	path = Plugins/n00dLobby
+	url = https://github.com/n00dbeaverstudios/n00dLobby
