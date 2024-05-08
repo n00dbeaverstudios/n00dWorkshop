@@ -40,5 +40,12 @@ git submodule update -- Plugins/n00dHolster Plugins/n00dFootsteps Plugins/n00dEm
 ```
 The `--` option indicates the end of command options, where only positional parameters follow.
 
+### Keep updated
+Command to update your submodules:
+
+```bash
+git submodule update --remote
+```
+
 ## Dive In!
 You’re all set! Explore the capabilities of n00dWorkshop and start building your projects with enhanced flexibility and power. See you inside!
