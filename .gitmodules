@@ -22,3 +22,12 @@
 [submodule "Plugins/XCharStackOBot"]
 	path = Plugins/XCharStackOBot
 	url = https://github.com/OurGameOrg/XCharStackOBot
+[submodule "Plugins/XEnvInfinityGrasslands"]
+	path = Plugins/XEnvInfinityGrasslands
+	url = https://github.com/OurGameOrg/XEnvInfinityGrasslands
+[submodule "Plugins/XCharInfinityAdversaries"]
+	path = Plugins/XCharInfinityAdversaries
+	url = https://github.com/OurGameOrg/XCharInfinityAdversaries
+[submodule "Plugins/XCharInfinityWarriors"]
+	path = Plugins/XCharInfinityWarriors
+	url = https://github.com/OurGameOrg/XCharInfinityWarriors
