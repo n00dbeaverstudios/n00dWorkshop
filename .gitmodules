@@ -19,3 +19,6 @@
 [submodule "Plugins/n00dStudio"]
 	path = Plugins/n00dStudio
 	url = https://github.com/n00dbeaverstudios/n00dStudio
+[submodule "Plugins/XCharStackOBot"]
+	path = Plugins/XCharStackOBot
+	url = https://github.com/OurGameOrg/XCharStackOBot
