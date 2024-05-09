@@ -18,7 +18,7 @@ If you own the plugins but do not have repository access, visit [Verification](h
 
 ## Getting Started
 
-### Clone the Entire Project
+### Clone the Project
 To clone n00dWorkshop along with all associated submodules, execute the following commands in your terminal:
 ```bash
 git clone https://github.com/n00dbeaverstudios/n00dWorkshop.git
@@ -26,19 +26,6 @@ cd n00dWorkshop
 git submodule update --init --recursive
 ```
 This set of commands initializes and updates the submodules recursively.
-
-### Clone Specific Submodules
-If you don't own all plugins or only need certain modules:
-```bash
-git clone https://github.com/n00dbeaverstudios/n00dWorkshop.git
-cd n00dWorkshop
-git submodule init
-```
-For example, if you have access to n00dHolster, n00dFootsteps, and n00dEmotes, you would use:
-```bash
-git submodule update -- Plugins/n00dHolster Plugins/n00dFootsteps Plugins/n00dEmotes
-```
-The `--` option indicates the end of command options, where only positional parameters follow.
 
 ### Keep updated
 Command to update your submodules:
