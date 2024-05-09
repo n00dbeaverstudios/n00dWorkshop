@@ -16,3 +16,6 @@
 [submodule "Plugins/n00dLobby"]
 	path = Plugins/n00dLobby
 	url = https://github.com/n00dbeaverstudios/n00dLobby
+[submodule "Plugins/n00dStudio"]
+	path = Plugins/n00dStudio
+	url = https://github.com/n00dbeaverstudios/n00dStudio
