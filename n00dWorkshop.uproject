@@ -10,6 +10,36 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "n00dFootsteps",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/f1660ba30bf749e0baf7be8fcceef36e"
+		},
+		{
+			"Name": "n00dDoors",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/d403c2fe603647e994a90eed5296b6e1"
+		},
+		{
+			"Name": "n00dEmotes",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/50f6fd76c8624773acf81927b58df85e"
+		},
+		{
+			"Name": "n00dHolster",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/5c7d730a65264541aefdb8cb9e5cb2bd"
+		},
+		{
+			"Name": "n00dLobby",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/8aa07806c7064bea936ce65167ece25f"
+		},
+		{
+			"Name": "n00dSleeper",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/8a4ad0b06a324732a236fc22cfeb9c0b"
 		}
 	]
 }
