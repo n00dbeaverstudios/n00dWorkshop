@@ -38,5 +38,14 @@ Command to update your submodules:
 git submodule update --remote
 ```
 
+## Generate Files
+Now that you've cloned the repositories, we must generate visual studio files for the project to see them. 
+
+Right-click on n00dWorkshop.uproject and select `Generate Visual Studio Project Files`
+
+![image](https://github.com/n00dbeaverstudios/n00dWorkshop/assets/20903421/b0409a19-1a48-4a93-abfe-5a7262da3f34)
+
+Once this is complete, double-click the project file and you will be prompted to compile the project. Go ahead and do this.
+
 ## Dive In!
 You’re all set! Explore the capabilities of n00dWorkshop and start building your projects with enhanced flexibility and power. See you inside!
