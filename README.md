@@ -4,6 +4,10 @@
 
 n00dWorkshop is a comprehensive integration of all plugins offered by n00dbeaverStudios for Unreal Engine. This unified project allows developers to explore, dissect, and tailor these tools to fit their specific project needs while providing practical insights into how each component interacts seamlessly.
 
+This example project is developed in C++ due to the requirements of the Binary Editor. When cloning submodules, you'll need to manually compile them. Alternatively, if you prefer using plugins directly from the Launcher, simply drop them into the Plugins folder, and they should integrate seamlessly with this project.
+
+**Important Note**: Your own project does not need to be C++-based to utilise these plugins effectively. If you download the plugins either from the Releases section within each GitHub repository or directly from the Launcher, they come pre-compiled with all necessary binaries, ready for immediate use.
+
 ## Installation
 
 Follow these steps to set up n00dWorkshop on your system.
