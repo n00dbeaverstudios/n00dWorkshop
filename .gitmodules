@@ -31,3 +31,6 @@
 [submodule "Plugins/XCharInfinityWarriors"]
 	path = Plugins/XCharInfinityWarriors
 	url = https://github.com/OurGameOrg/XCharInfinityWarriors
+[submodule "Plugins/ALS-Community"]
+	path = Plugins/ALS-Community
+	url = https://github.com/dyanikoglu/ALS-Community
