@@ -26,6 +26,7 @@ This project leverages permanantly free assets that are available on the marketp
 - [GOOD SKY](https://www.unrealengine.com/marketplace/en-US/product/good-sky)
 - [Interface & Item Sounds Pack](https://www.unrealengine.com/marketplace/en-US/product/interface-item-sounds-pack)
 - [Realistic Starter VFX Pack Vol 2](https://www.unrealengine.com/marketplace/en-US/product/realistic-starter-vfx-pack-vol)
+- [Basic Pickups VFX Set (Niagara)](https://www.unrealengine.com/marketplace/en-US/product/basic-pickups-vfx-set-niagara?sessionInvalidated=true)
 
 Please visit the Launcher to download these assets and add them to this project manually. 
 
