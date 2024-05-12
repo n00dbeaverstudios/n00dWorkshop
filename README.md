@@ -17,6 +17,18 @@ Follow these steps to set up n00dWorkshop on your system.
 - **Linux:** Git should be pre-installed.
 - **Recommended:** Use a desktop Git client like [GitHub Desktop for Windows](https://desktop.github.com/) or the [setup for Linux](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1). Choose the client that best fits your workflow.
 
+### Unreal Engine Marketplace Permanantly Free Assets
+This project leverages permanantly free assets that are available on the marketplace, to use this project you must acquire the files from the Launcher that we are using for various features, as we will not be including them in this repository. 
+
+- [Human Vocalizations](https://www.unrealengine.com/marketplace/en-US/product/human-vocalizations)
+- [Stylized Egypt](https://www.unrealengine.com/marketplace/en-US/product/stylized-egypt)
+- [Niagara Footstep VFX](https://www.unrealengine.com/marketplace/en-US/product/niagara-footstep-vfx)
+- [GOOD SKY](https://www.unrealengine.com/marketplace/en-US/product/good-sky)
+- [Interface & Item Sounds Pack](https://www.unrealengine.com/marketplace/en-US/product/interface-item-sounds-pack)
+- [Realistic Starter VFX Pack Vol 2](https://www.unrealengine.com/marketplace/en-US/product/realistic-starter-vfx-pack-vol)
+
+Please visit the Launcher to download these assets and add them to this project manually. 
+
 ### Verification
 If you own the plugins but do not have repository access, visit [Verification](https://verify.n00dbeaverstudios.com/) to verify your ownership and gain the necessary access.
 
