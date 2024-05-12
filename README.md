@@ -28,6 +28,7 @@ This project leverages permanantly free assets that are available on the marketp
 - [Realistic Starter VFX Pack Vol 2](https://www.unrealengine.com/marketplace/en-US/product/realistic-starter-vfx-pack-vol)
 - [Basic Pickups VFX Set (Niagara)](https://www.unrealengine.com/marketplace/en-US/product/basic-pickups-vfx-set-niagara?sessionInvalidated=true)
 - [Stylized Eastern Village](https://www.unrealengine.com/marketplace/en-US/product/stylized-eastern-village)
+- [Stylized Fantasy Provencal (Stylized, Fantasy, Provencal)](https://www.unrealengine.com/marketplace/en-US/product/stylized-fantasy-provencal)
 
 Please visit the Launcher to download these assets and add them to this project manually. 
 
