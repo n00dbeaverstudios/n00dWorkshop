@@ -27,6 +27,7 @@ This project leverages permanantly free assets that are available on the marketp
 - [Interface & Item Sounds Pack](https://www.unrealengine.com/marketplace/en-US/product/interface-item-sounds-pack)
 - [Realistic Starter VFX Pack Vol 2](https://www.unrealengine.com/marketplace/en-US/product/realistic-starter-vfx-pack-vol)
 - [Basic Pickups VFX Set (Niagara)](https://www.unrealengine.com/marketplace/en-US/product/basic-pickups-vfx-set-niagara?sessionInvalidated=true)
+- [Stylized Eastern Village](https://www.unrealengine.com/marketplace/en-US/product/stylized-eastern-village)
 
 Please visit the Launcher to download these assets and add them to this project manually. 
 
