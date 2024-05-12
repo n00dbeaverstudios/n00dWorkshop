@@ -34,3 +34,6 @@
 [submodule "Plugins/ALS-Community"]
 	path = Plugins/ALS-Community
 	url = https://github.com/dyanikoglu/ALS-Community
+[submodule "Plugins/XFXInfinityBladeEffects"]
+	path = Plugins/XFXInfinityBladeEffects
+	url = https://github.com/OurGameOrg/XFXInfinityBladeEffects
