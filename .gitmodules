@@ -1,21 +1,27 @@
 [submodule "Plugins/n00dEmotes"]
 	path = Plugins/n00dEmotes
 	url = https://github.com/n00dbeaverstudios/n00dEmotes
+	branch = main
 [submodule "Plugins/n00dFootsteps"]
 	path = Plugins/n00dFootsteps
 	url = https://github.com/n00dbeaverstudios/n00dFootsteps
+	branch = main
 [submodule "Plugins/n00dSleeper"]
 	path = Plugins/n00dSleeper
 	url = https://github.com/n00dbeaverstudios/n00dSleeper
+	branch = main
 [submodule "Plugins/n00dHolster"]
 	path = Plugins/n00dHolster
 	url = https://github.com/n00dbeaverstudios/n00dHolster
+	branch = main
 [submodule "Plugins/n00dDoors"]
 	path = Plugins/n00dDoors
 	url = https://github.com/n00dbeaverstudios/n00dDoors
+	branch = main
 [submodule "Plugins/n00dLobby"]
 	path = Plugins/n00dLobby
 	url = https://github.com/n00dbeaverstudios/n00dLobby
+	branch = main
 [submodule "Plugins/n00dStudio"]
 	path = Plugins/n00dStudio
 	url = https://github.com/n00dbeaverstudios/n00dStudio
@@ -43,3 +49,4 @@
 [submodule "Plugins/n00dInteract"]
 	path = Plugins/n00dInteract
 	url = https://github.com/n00dbeaverstudios/n00dInteract
+	branch = main
