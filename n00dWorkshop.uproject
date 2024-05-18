@@ -47,6 +47,11 @@
 			"Name": "n00dSleeper",
 			"Enabled": true,
 			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/8a4ad0b06a324732a236fc22cfeb9c0b"
+		},
+		{
+			"Name": "n00dInteract",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/4adc946b0fc94b5390d444c0c5c3ea69"
 		}
 	]
 }
