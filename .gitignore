@@ -73,6 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Releases/*
+
 # Marketplace free content
 Content/A_Surface_Footstep/*
 Content/GoodSky/*
