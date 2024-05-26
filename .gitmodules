@@ -46,7 +46,3 @@
 [submodule "Plugins/XWeapInfinityBladeWeapons"]
 	path = Plugins/XWeapInfinityBladeWeapons
 	url = https://github.com/OurGameOrg/XWeapInfinityBladeWeapons
-[submodule "Plugins/n00dInteract"]
-	path = Plugins/n00dInteract
-	url = https://github.com/n00dbeaverstudios/n00dInteract
-	branch = main
