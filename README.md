@@ -38,7 +38,7 @@ If you own the plugins but do not have repository access, visit [Verification](h
 
 ## Getting Started
 
-The following only applies to cloning main to receive the latest and greatest, see [Releases](https://github.com/n00dbeaverstudios/n00dWorkshop/releases) to download the Binary version of this project!
+The following only applies to cloning main to receive the latest and greatest, see [Releases](https://github.com/n00dbeaverstudios/n00dWorkshop/releases) to download the Binary version of this project where you can simply add the required plugins to the Plugins folder!
 
 ### Clone the Project
 To clone n00dWorkshop along with all associated submodules, execute the following commands in your terminal:
