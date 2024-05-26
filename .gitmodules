@@ -40,6 +40,3 @@
 [submodule "Plugins/XFXInfinityBladeEffects"]
 	path = Plugins/XFXInfinityBladeEffects
 	url = https://github.com/OurGameOrg/XFXInfinityBladeEffects
-[submodule "Plugins/XWeapInfinityBladeWeapons"]
-	path = Plugins/XWeapInfinityBladeWeapons
-	url = https://github.com/OurGameOrg/XWeapInfinityBladeWeapons
