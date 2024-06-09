@@ -50,3 +50,9 @@
 	path = Plugins/n00dInteract
 	url = https://github.com/n00dbeaverstudios/n00dInteract
 	branch = main
+[submodule "Plugins/n00dPickups"]
+	path = Plugins/n00dPickups
+	url = https://github.com/n00dbeaverstudios/n00dPickups
+[submodule "Plugins/n00dTraits"]
+	path = Plugins/n00dTraits
+	url = https://github.com/n00dbeaverstudios/n00dTraits
