@@ -52,6 +52,11 @@
 			"Name": "n00dInteract",
 			"Enabled": true,
 			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/4adc946b0fc94b5390d444c0c5c3ea69"
+		},
+		{
+			"Name": "n00dTraits",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/d403c2fe603647e994a90eed5296b6e1"
 		}
 	]
 }
