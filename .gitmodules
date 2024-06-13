@@ -56,3 +56,6 @@
 [submodule "Plugins/n00dTraits"]
 	path = Plugins/n00dTraits
 	url = https://github.com/n00dbeaverstudios/n00dTraits
+[submodule "Plugins/n00dProjectiles"]
+	path = Plugins/n00dProjectiles
+	url = https://github.com/n00dbeaverstudios/n00dProjectiles
