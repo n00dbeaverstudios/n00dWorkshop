@@ -55,8 +55,19 @@
 		},
 		{
 			"Name": "n00dTraits",
-			"Enabled": true,
-			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/d403c2fe603647e994a90eed5296b6e1"
+			"Enabled": true
+		},
+		{
+			"Name": "n00dPickups",
+			"Enabled": true
+		},
+		{
+			"Name": "n00dProjectiles",
+			"Enabled": true
+		},
+		{
+			"Name": "n00dArmour",
+			"Enabled": true
 		}
 	]
 }
