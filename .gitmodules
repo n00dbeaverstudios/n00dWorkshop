@@ -62,3 +62,6 @@
 [submodule "Plugins/n00dArmour"]
 	path = Plugins/n00dArmour
 	url = https://github.com/n00dbeaverstudios/n00dArmour
+[submodule "Plugins/n00dBuffs"]
+	path = Plugins/n00dBuffs
+	url = https://github.com/n00dbeaverstudios/n00dBuffs
