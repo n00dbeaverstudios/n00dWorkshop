@@ -62,3 +62,6 @@
 [submodule "Plugins/n00dBuffs"]
 	path = Plugins/n00dBuffs
 	url = https://github.com/n00dbeaverstudios/n00dBuffs
+[submodule "Plugins/n00dTraits"]
+	path = Plugins/n00dTraits
+	url = https://github.com/n00dbeaverstudios/n00dTraits
