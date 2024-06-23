@@ -68,6 +68,10 @@
 		{
 			"Name": "n00dArmour",
 			"Enabled": true
+		},
+		{
+			"Name": "n00dBuffs",
+			"Enabled": true
 		}
 	]
 }
